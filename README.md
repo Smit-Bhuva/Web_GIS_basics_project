@@ -2,6 +2,12 @@
 
 This project is hands-on work on what we learned in the Web GIS course during our academics at DAIICT. We simply created a web interface to visualise the vector and raster datasets we have using HTML, CSS as frontend and JavaScript-OpenLayers as backend.
 
+## Team Members:
+* [Harsh Chothani](https://github.com/Harsh-Chothani)
+* [Kaushal Kathiriya](https://github.com/Kaushal0609)
+* [Mit Borda](https://github.com/mit2880)
+* [Anusha Parida](https://github.com/Anusha26399)
+
 ## Dependencies:
 1. Apache Tomcat
 2. Geoserver
